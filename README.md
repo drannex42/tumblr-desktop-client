@@ -7,6 +7,11 @@ TODO:
 
 + Multiple Account Support
 + Context Menu
-+ + Open in browser
-+ + Copy current URL
+  + Copy
+  + Cut
+  + Paste
+  + Reload
+  + Open in browser
+  + Copy current URL
 + One Click Reblog 
++ Tag Viewer
